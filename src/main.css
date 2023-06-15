@@ -1,0 +1,23 @@
+.work-item-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .work-item-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .work-image img {
+    width: 250px;
+    height: 250px;
+  }
+  
+  .work-details {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
